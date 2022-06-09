@@ -1,2 +1,2 @@
 # text
-test repo for commamd
+test repo for commamds demonstrarion
